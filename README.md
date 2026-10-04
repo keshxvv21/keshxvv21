@@ -1,7 +1,7 @@
 <h1 align="center">Hello!!, I'm Keshavv 🌻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student;AI+and+Backend+Enthusiast;Research+Intern+covering+ISRO;Building+things+that+look+up+at+the+sky" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student;AI+and+Backend+Enthusiast;Research+Intern+@+covering+ISRO;" alt="Typing SVG" />
 </p>
 
 <p align="center">
