@@ -19,8 +19,8 @@ Hello!!, I'm Keshav & I'm a CS student who likes turning ideas into working prod
 - 🛰️ Research Intern at **The Geostrata**, writing about ISRO missions and Space Technology
 - 🌱 Currently learning the **MERN Stack**
 - ☕ Comfortable with **Java** and **SQL**, building scalable, data-driven apps
-- ✍️ Sharpening my research, technical writing, and communication skills
-- 🤝 Open to collaborating on AI, backend, and space-tech projects
+- ✍🏼 Sharpening my research, technical writing, and communication skills
+- 🤝🏼 Open to collaborating on AI, backend, and space-tech projects
 
 ---
 
